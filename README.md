@@ -3,7 +3,7 @@
 **Projeto desenvolvido em uma aula de um curso de desenvolvimento web* 
 Desenvolvido com Html/css javascript
 
-Principais conceitos aplicados, 
+Principais conceitos aplicados, <br>
 Classes
 Objetos
 Dom
